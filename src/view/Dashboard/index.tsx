@@ -27,7 +27,14 @@ const Dashboard: React.FC = () => {
         <div key={moment.id}>
           <p>{moment.title}</p>
           <p>{moment.description}</p>
-          <p>{moment.image}</p>
+          {/* <p>{moment.image}</p> */}
+          <div>
+            <img
+              style={{ height: '100px', width: '100px' }}
+              src={`http://localhost:3333/uploads/${moment.image}`}
+              alt="erer"
+            />
+          </div>
         </div>
       ))}
     </>
