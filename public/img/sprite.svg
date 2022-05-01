@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none">
+  <symbol id="avatar-login" viewBox="0 0 19 25">
+    <g clip-path="url(#clip0_2_2)">
+      <circle cx="9.5" cy="6.5" r="6.5"/>
+      <path d="M9.52628 9L19.0526 25.5H0L9.52628 9Z"/>
+    </g>
+    <defs>
+      <clipPath id="clip0_2_2">
+      <rect width="19" height="25" fill="white"/>
+      </clipPath>
+    </defs>
+  </symbol>
+  <symbol id="lock-login-blue" viewBox="0 0 19 25" fill="none" >
+    <circle cx="9.5" cy="9.5" r="7" stroke="#1673FA"/>
+    <rect x="1" y="9" width="17" height="14" fill="#1673FA"/>
+    <path d="M11.2 15C11.2 15.8284 10.5284 16.5 9.70001 16.5C8.87159 16.5 8.20001 15.8284 8.20001 15C8.20001 14.1716 8.87159 13.5 9.70001 13.5C10.5284 13.5 11.2 14.1716 11.2 15Z" fill="white"/>
+    <path d="M9.66506 16L11.8301 19.75H7.5L9.66506 16Z" fill="white"/>
+  </symbol>
+  <symbol id="lock-login-red" viewBox="0 0 19 25" fill="none" >
+    <circle cx="9.5" cy="9.5" r="7" stroke="#ff1818"/>
+    <rect x="1" y="9" width="17" height="14" fill="#ff1818"/>
+    <path d="M11.2 15C11.2 15.8284 10.5284 16.5 9.70001 16.5C8.87159 16.5 8.20001 15.8284 8.20001 15C8.20001 14.1716 8.87159 13.5 9.70001 13.5C10.5284 13.5 11.2 14.1716 11.2 15Z" fill="white"/>
+    <path d="M9.66506 16L11.8301 19.75H7.5L9.66506 16Z" fill="white"/>
+  </symbol>
+</svg>
